@@ -4,3 +4,4 @@ yes
 haha
 comflict
 boi
+Trying out branch function
